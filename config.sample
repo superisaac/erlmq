@@ -1,0 +1,4 @@
+{data_dir, "dd"}.
+{binlog_size_limit, 256}.
+{memcached_port, 12345}.
+{reader_port, 12346}.
