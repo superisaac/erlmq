@@ -9,6 +9,7 @@ email: superisaac.ke at gmail.com
 
 * It speaks memcached protocol, set/get are currently supported
 * It has a wire protocol to start reading at any element of binlog
+* It is implemented in erlang language.
 
 
 
